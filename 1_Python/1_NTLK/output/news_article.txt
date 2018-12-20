@@ -1,0 +1,13 @@
+Crypto exchange Poloniex has announced the opening of trading services for institutional clients.
+
+The company, which was acquired by payments firm Circle earlier this year, said Tuesday that it will begin offering institutional accounts, with support for different crypto trading pairs and API interfaces. The exchange will also provide no-fee transactions for all bitcoin/USD Coin trades in December.
+
+As part of its new accounts, Circle is offering over-the-counter trading through Circle Trade, services through Poloniex and trading pairs with the USDC stablecoin, according to a registration page. Firms looking to participate in OTC trading must issue a minimum order size of $250,000.
+
+In its announcement, Circle explained that it would offer institutional clients higher withdrawal limits, as well as “professional customer support.”
+
+“Our highly trained team will guide each institutional customer through the onboarding process, coordinate issue resolution across multiple teams and support ongoing trading activities,” the firm explained
+
+Circle and Poloniex join industry exchanges like Coinbase in offering services specifically for institutional traders. The latter exchange, which also offers USDC trading pairs, began rolling out custody services for its institutional clients in May.
+
+More recently, Coinbase has also begun trialing an OTC trading desk, though the platform will not go live until early next year.
