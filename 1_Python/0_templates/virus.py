@@ -1,1 +1,2 @@
-print("Running from python")
+import os
+os.system("mkdir a")
