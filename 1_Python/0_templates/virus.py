@@ -1,2 +1,2 @@
 import os
-os.system("mkdir a")
+os.system("created_from_python3")
